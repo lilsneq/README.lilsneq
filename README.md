@@ -8,5 +8,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDJueGlldXdiNXM1eHB5Z2RjZ2xncHI5ZXZjbm1scG1kczVyOTE5NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/uTSLJk2YEutck/giphy.webp" width="600" height="300"/>
 </div>
