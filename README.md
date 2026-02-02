@@ -10,3 +10,17 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDJueGlldXdiNXM1eHB5Z2RjZ2xncHI5ZXZjbm1scG1kczVyOTE5NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/uTSLJk2YEutck/giphy.webp" width="600" height="300"/>
 </div>
+
+### :man_technologist: About Me :
+I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lilsneq&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lilsneq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
