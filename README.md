@@ -7,10 +7,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDJueGlldXdiNXM1eHB5Z2RjZ2xncHI5ZXZjbm1scG1kczVyOTE5NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/uTSLJk2YEutck/giphy.webp" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-# 👨‍💻 lilsneq | Python Developer
 
+# 👨‍💻 lilsneq | Python Developer
+I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 🚀 Начинающий разработчик на Python, создаю интересные проекты и учусь новому!
 ### :hammer_and_wrench: Languages and Tools :
 <div>
