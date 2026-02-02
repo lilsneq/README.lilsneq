@@ -23,10 +23,9 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 - **Databases:** 
 - **Web:** 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilsneq&show_icons=true&theme=default)
+## 📈 Моя активность на GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lilsneq&hide_border=true&show_icons=true&count_private=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilsneq&theme=default)
 
 ## 📫 Connect With Me
 - **GitHub:** [@lilsneq](https://github.com/lilsneq)
