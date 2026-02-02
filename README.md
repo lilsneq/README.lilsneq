@@ -6,3 +6,7 @@
   LMAO
   <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDV3cHB4NWhodTFmMm9wd3NkMnlveGJoZzQ5ZDc5djc4anFkdjYzdCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3etP8HqLPVixUc9Y3s/200.webp" width="50px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
