@@ -4,7 +4,7 @@
 
 <h1>
   LMAO
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDV3cHB4NWhodTFmMm9wd3NkMnlveGJoZzQ5ZDc5djc4anFkdjYzdCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3etP8HqLPVixUc9Y3s/200.webp" width="50px"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDV3cHB4NWhodTFmMm9wd3NkMnlveGJoZzQ5ZDc5djc4anFkdjYzdCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3etP8HqLPVixUc9Y3s/200.webp" width="100px"/>
 </h1>
 
 <div align="center">
