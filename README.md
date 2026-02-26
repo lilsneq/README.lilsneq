@@ -25,6 +25,8 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra&show_icons=true&theme=dark"
